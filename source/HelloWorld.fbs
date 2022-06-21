@@ -1,0 +1,7 @@
+namespace flat;
+
+table HelloWorld {
+    messages : [string];
+}
+
+root_type HelloWorld;
